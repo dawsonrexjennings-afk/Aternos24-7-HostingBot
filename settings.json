@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "QyxSMP.aternos.me",
+    "port": 24635,
     "version": "",
     "try-creative": false
   },
@@ -32,8 +32,10 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to VexQyx!",
         "I like to play Minecraft!"
+        "I hate Wxck249"
+        "I hate Noxiqzz"
       ]
     },
     "chat-log": true,
